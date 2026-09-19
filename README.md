@@ -2,7 +2,7 @@
 
 A personal portfolio website built with React to showcase my software development projects, skills, and experience.
 
-**🔗 [Live Demo](https://your-portfolio.vercel.app)**
+**🔗 [Live Demo](https://portfolio-nu-dusky-28.vercel.app/)**
 
 ## 🚀 Features
 
@@ -32,5 +32,5 @@ You will need Node.js and npm (Node Package Manager) installed.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/[Your-Repository-Name].git
+   git clone https://github.com/KUNDAN-NANDY/Portfolio.git
    ```

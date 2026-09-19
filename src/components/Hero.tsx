@@ -42,7 +42,7 @@ export const Hero: React.FC = () => {
               View Experience
             </a>
             <button
-              onClick={() => window.print()}
+              onClick={() => window.open('https://drive.google.com/uc?export=download&id=1j05L0i53FAaIEneimeug_qH6crf2SqXD', 'Resume')}
               className="px-8 py-3 rounded-full bg-slate-800/50 hover:bg-slate-800 border border-slate-700 text-white font-medium backdrop-blur-sm transition-all flex items-center gap-2"
             >
               <Download size={18} /> Download Resume
