@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "Kundan Nandy",
+    "title": "Java Backend Engineer · Spring Boot & Microservices @ Capgemini",
+    "summary": "I build backend systems that handle real traffic — scalable REST APIs, microservices architectures, and Spring Boot applications that teams can actually maintain and extend. Currently at Capgemini (2.1 years), I work on Java/Spring Boot–based services used in enterprise-scale workflows. My day-to-day spans end-to-end feature development, API design, performance optimization, and cross-team delivery.",
+    "location": "Bengaluru, Karnataka, India",
+    "email": "kundannandy27598@gmail.com",
+    "phone": "7866880218",
+    "links": {
+      "linkedin": "www.linkedin.com/in/kundan-nandy-71278517b",
+      "github": "github.com/kundan-nandy"
+    }
+  },
+  "experience": [
+    {
+      "company": "Capgemini",
+      "role": "Analyst/Software Engineer",
+      "dates": "June 2024 - Present (2 years 4 months)",
+      "location": "Bengaluru",
+      "bullets": [
+        "Designed and developed RESTful microservices using Java 17 and Spring Boot, contributing to an enterprise-scale backend platform; services integrated with 7 downstream systems and handled 30K daily requests.",
+        "Implemented data persistence layers using Spring Data JPA and Hibernate; optimized SQL queries and reduced average API response time by 30% through indexing and query restructuring.",
+        "Built and versioned REST APIs consumed by front-end and third-party teams; collaborated across 3+ squads to define contracts and ensure backward compatibility.",
+        "Accelerated local development by reducing boilerplate code using Lombok, and streamlined API testing workflows using Postman collections shared across the team.",
+        "Participated in code reviews for 10+ PRs per sprint, enforcing SOLID principles and catching bugs pre-production; contributed to reducing post-release defects in the service layer.",
+        "Delivered end-to-end features across full development lifecycle — from requirements breakdown to testing, deployment, and post-release monitoring.",
+        "Developed and maintained backend modules using Java, Spring Boot, and Maven, focusing on building scalable microservices and RESTful APIs, which improved application performance by 25%.",
+        "Designed and implemented JasperReports for automated PDF generation, reducing manual reporting effort by 40% and streamlining business workflows.",
+        "Collaborated using GitHub and Azure DevOps Repos for version control and CI/CD integration, while conducting thorough unit testing with JUnit and Mockito, increasing code reliability by 30%."
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "metric": "30K",
+      "context": "Daily requests handled by integrated microservices"
+    },
+    {
+      "metric": "30%",
+      "context": "Reduced API response time through query optimization"
+    },
+    {
+      "metric": "25%",
+      "context": "Improved application performance building scalable APIs"
+    },
+    {
+      "metric": "40%",
+      "context": "Reduced manual reporting effort via JasperReports"
+    },
+    {
+      "metric": "30%",
+      "context": "Increased code reliability with JUnit and Mockito"
+    },
+    {
+      "metric": "10+",
+      "context": "PRs reviewed per sprint, catching pre-production bugs"
+    }
+  ],
+  "projects": [],
+  "skills": {
+    "Top Skills": ["gRPC", "Azure DevOps Server", "Docker"],
+    "Backend & Frameworks": ["Java 11/17", "Spring Boot", "Spring Data JPA", "Hibernate", "Microservices", "REST APIs", "Lombok"],
+    "Tools & Platforms": ["Postman", "Git", "Maven", "JUnit", "SQL", "MySQL", "Docker", "AWS fundamentals"],
+    "Languages": ["English (Full Professional)", "Bengali (Native or Bilingual)", "Hindi (Professional Working)"]
+  },
+  "education": [
+    {
+      "institution": "Haldia Institute of Technology",
+      "degree": "Bachelor of Technology, Electrical, Electronics and Communications Engineering",
+      "dates": "January 2020 - August 2023"
+    },
+    {
+      "institution": "Siliguri Govt. Polytechnic",
+      "degree": "Diploma, Electronics and Tele-Communications Engineering",
+      "dates": "August 2017 - August 2020"
+    }
+  ],
+  "certifications": [],
+  "awards": [],
+  "extra": [
+    "Open to SWE / Backend roles",
+    "Writing code that's readable 6 months later. Designing APIs that don't become maintenance nightmares. Shipping features that actually close business requirements."
+  ]
+}
